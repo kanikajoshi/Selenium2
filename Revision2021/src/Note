@@ -1,0 +1,2 @@
+Scroll to the bottom down of the screen
+js.executeScript("window.scrollTo(0, document.body.scrollHeight)");

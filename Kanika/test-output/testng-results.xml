@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="14081" started-at="2019-11-14T22:52:12 EST" finished-at="2019-11-14T22:52:26 EST">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="14081" started-at="2019-11-14T22:52:12 EST" finished-at="2019-11-14T22:52:26 EST">
+      <class name="testng.FirstTestngProgram">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testng.FirstTestngProgram@6c3708b3]" name="setUp" is-config="true" duration-ms="6608" started-at="2019-11-14T22:52:12 EST" finished-at="2019-11-14T22:52:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="totalLinksCount()[pri:1, instance:testng.FirstTestngProgram@6c3708b3]" name="totalLinksCount" duration-ms="154" started-at="2019-11-14T22:52:18 EST" finished-at="2019-11-14T22:52:18 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- totalLinksCount -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.FirstTestngProgram@6c3708b3]" name="tearDown" is-config="true" duration-ms="758" started-at="2019-11-14T22:52:18 EST" finished-at="2019-11-14T22:52:19 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:testng.FirstTestngProgram@6c3708b3]" name="setUp" is-config="true" duration-ms="5580" started-at="2019-11-14T22:52:19 EST" finished-at="2019-11-14T22:52:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="elementPresent()[pri:2, instance:testng.FirstTestngProgram@6c3708b3]" name="elementPresent" duration-ms="2" started-at="2019-11-14T22:52:25 EST" finished-at="2019-11-14T22:52:25 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- elementPresent -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:testng.FirstTestngProgram@6c3708b3]" name="tearDown" is-config="true" duration-ms="931" started-at="2019-11-14T22:52:25 EST" finished-at="2019-11-14T22:52:26 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- testng.FirstTestngProgram -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

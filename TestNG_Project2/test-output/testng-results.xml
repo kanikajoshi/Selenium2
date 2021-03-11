@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="5" passed="5">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="30680" started-at="2019-11-12T23:28:41 EST" finished-at="2019-11-12T23:29:12 EST">
+    <groups>
+      <group name="LinkTest">
+        <method signature="GoogleTest.google3()[pri:3, instance:SelfStudy2.GoogleTest@6c3708b3]" name="google3" class="SelfStudy2.GoogleTest"/>
+        <method signature="GoogleTest.googleLogoTest()[pri:1, instance:SelfStudy2.GoogleTest@6c3708b3]" name="googleLogoTest" class="SelfStudy2.GoogleTest"/>
+        <method signature="GoogleTest.googleT()[pri:3, instance:SelfStudy2.GoogleTest@6c3708b3]" name="googleT" class="SelfStudy2.GoogleTest"/>
+        <method signature="GoogleTest.mailLinkTest()[pri:3, instance:SelfStudy2.GoogleTest@6c3708b3]" name="mailLinkTest" class="SelfStudy2.GoogleTest"/>
+      </group> <!-- LinkTest -->
+      <group name="Title">
+        <method signature="GoogleTest.googleTitleTest()[pri:2, instance:SelfStudy2.GoogleTest@6c3708b3]" name="googleTitleTest" class="SelfStudy2.GoogleTest"/>
+      </group> <!-- Title -->
+    </groups>
+    <test name="Default test" duration-ms="30680" started-at="2019-11-12T23:28:41 EST" finished-at="2019-11-12T23:29:12 EST">
+      <class name="SelfStudy2.GoogleTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="setup" is-config="true" duration-ms="6207" started-at="2019-11-12T23:28:41 EST" finished-at="2019-11-12T23:28:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleLogoTest()[pri:1, instance:SelfStudy2.GoogleTest@6c3708b3]" name="googleLogoTest" duration-ms="109" started-at="2019-11-12T23:28:47 EST" finished-at="2019-11-12T23:28:47 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleLogoTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="702" started-at="2019-11-12T23:28:47 EST" finished-at="2019-11-12T23:28:48 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="setup" is-config="true" duration-ms="4953" started-at="2019-11-12T23:28:48 EST" finished-at="2019-11-12T23:28:53 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:2, instance:SelfStudy2.GoogleTest@6c3708b3]" name="googleTitleTest" duration-ms="17" started-at="2019-11-12T23:28:53 EST" finished-at="2019-11-12T23:28:53 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="722" started-at="2019-11-12T23:28:53 EST" finished-at="2019-11-12T23:28:54 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="setup" is-config="true" duration-ms="5287" started-at="2019-11-12T23:28:54 EST" finished-at="2019-11-12T23:28:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="google3()[pri:3, instance:SelfStudy2.GoogleTest@6c3708b3]" name="google3" duration-ms="0" started-at="2019-11-12T23:28:59 EST" finished-at="2019-11-12T23:28:59 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- google3 -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="704" started-at="2019-11-12T23:28:59 EST" finished-at="2019-11-12T23:29:00 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="setup" is-config="true" duration-ms="5089" started-at="2019-11-12T23:29:00 EST" finished-at="2019-11-12T23:29:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="googleT()[pri:3, instance:SelfStudy2.GoogleTest@6c3708b3]" name="googleT" duration-ms="0" started-at="2019-11-12T23:29:05 EST" finished-at="2019-11-12T23:29:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleT -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="711" started-at="2019-11-12T23:29:05 EST" finished-at="2019-11-12T23:29:05 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="setup" is-config="true" duration-ms="5310" started-at="2019-11-12T23:29:05 EST" finished-at="2019-11-12T23:29:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="mailLinkTest()[pri:3, instance:SelfStudy2.GoogleTest@6c3708b3]" name="mailLinkTest" duration-ms="73" started-at="2019-11-12T23:29:11 EST" finished-at="2019-11-12T23:29:11 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mailLinkTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:SelfStudy2.GoogleTest@6c3708b3]" name="tearDown" is-config="true" duration-ms="716" started-at="2019-11-12T23:29:11 EST" finished-at="2019-11-12T23:29:12 EST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- SelfStudy2.GoogleTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
