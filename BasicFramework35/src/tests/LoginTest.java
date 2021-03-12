@@ -21,7 +21,7 @@ public class LoginTest {
 	Xls_Reader d = new Xls_Reader("C:\\Testing\\Data1.xlsx");
 	
 	String validEmail = d.getCellData("Sheet1",1,1);
-	System.out.println(d);
+	//System.out.println(d);
 	/*
 	 * String InvalidEmail String wrongPassword String passErrmsg String emailErrmsg
 	 */
